@@ -1,4 +1,4 @@
-module golang-webservice
+module day-7
 
 go 1.19
 
